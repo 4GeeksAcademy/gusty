@@ -40,3 +40,4 @@ window.onload = function() {
 
   document.getElementById("excuse").innerHTML = generateExcuse();
 };
+.
